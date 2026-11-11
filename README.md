@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Acamere2
+- 👋 Hi, I’m Amy N
 - 👀 I’m interested in learning about programming and creating learning spaces for students.
 - 🌱 I’m currently learning about user interfaces and instructional design.
 - 💞️ I’m looking to collaborate on instructional design and easy-to-use learning tools.
